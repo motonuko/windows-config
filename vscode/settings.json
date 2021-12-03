@@ -1,0 +1,7 @@
+{
+    // ~~~
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    // Set default end of line: LF
+    "files.eol": "\n"
+    // ~~~
+}
