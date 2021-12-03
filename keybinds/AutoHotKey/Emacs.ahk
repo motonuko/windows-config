@@ -18,13 +18,6 @@ is_target()
   Return 0
 }
 
-is_chrome()
-{
-  IfWinActive,ahk_class Chrome_WidgetWin_1
-    Return 1
-  Return 0
-}
-
 ;
 ; <ctrl>b
 ; move cursor backward
